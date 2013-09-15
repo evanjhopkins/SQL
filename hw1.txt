@@ -1,2 +1,63 @@
 --Evan Hopkins
 --Homework 1
+1)"c001";"Tiptop";"Duluth";10.00
+  "c002";"Basics";"Dallas";12.00
+  "c003";"Allied";"Dallas";8.00
+  "c004";"ACME";"Duluth";8.00
+  "c005";"Weyland-Yutani";"Acheron";0.00
+  "c006";"ACME";"Kyoto";0.00
+
+2)"Smith";"New York"
+  "Smith";"Dallas"
+
+3)"p06";"folder";123100x`
+
+4)1011;"a01"
+  1013;"a03" 
+  1015;"a03" 
+  1016;"a01"
+  1017;"a06"
+  1018;"a03"
+  1019;"a02"
+  1020;"a03"
+  1021;"a06"
+  1022;"a05"
+  1023;"a04"
+  1024;"a06"
+  1025;"a05"
+  1026;"a05"
+
+5)"Tiptop";"Duluth"
+  "ACME";"Duluth"
+  "Weyland-Yutani";"Acheron"
+  "ACME";"Kyoto"
+
+6)"Smith"
+  "Jones"
+  "Gray"
+
+7)"comb"
+  "brush"
+  "razor"
+  "pen"
+  "pencil"
+  "case"
+
+8)1011;"jan";"c001";"a01";"p01";1000;450.00
+  1013;"jan";"c002";"a03";"p03";1000;880.00
+  1015;"jan";"c003";"a03";"p05";1200;1104.00
+  1016;"jan";"c006";"a01";"p01";1000;500.00
+  1022;"mar";"c001";"a05";"p06";400;720.00
+  1023;"mar";"c001";"a04";"p05";500;450.00
+  1024;"mar";"c006";"a06";"p01";800;400.00
+
+9) NULL
+
+10) NULL
+
+
+
+
+
+
+
