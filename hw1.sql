@@ -18,16 +18,16 @@ SELECT ordno, aid FROM orders;
 SELECT name, city FROM customers WHERE city!='Dallas';
 
 --6) Returns the name of agents from New York or Newark
-SELECT name FROM agents where city='New York' or city='Newark';
+SELECT name FROM agents WHERE city='New York' OR city='Newark';
 
 --7) Returns the name of products not from New York or Newarks that cost $1.00 or less
-SELECT name FROM products WHERE name!='New York' and name!='Newark' and priceusd<=1.00;
+SELECT * FROM products WHERE city!='New York' AND city!='Newark' AND priceusd<=1.00;
 
 --8) Returns all informations about orders made in January or March
-SELECT * FROM orders WHERE mon='jan' or mon='mar';
+SELECT * FROM orders WHERE mon='jan' OR mon='mar';
 
 --9) Returns all information about orders made in Febuary that are less than $100
-SELECT * FROM orders WHERE mon='feb' and dollars<100.00;
+SELECT * FROM orders WHERE mon='feb' AND dollars<100.00;
 
 --10) Returns all information on orders made by the customer with CID C005
 SELECT * FROM orders WHERE cid='C005';
